@@ -13,7 +13,8 @@ Mi experiencia administrativa y operativa me permite conectar la información co
 | Data Ventas | Ventas de retail de 2011 y 2012, indicadores y Power BI. Participación como Data Analyst en un equipo de tres integrantes. | [Ver proyecto](https://github.com/LicDonaldAguilar/retail-sales-analytics) |
 | TicoShop | Análisis de abandono, segmentación y modelado predictivo en un caso académico de 2 000 clientes. | [Ver proyecto](https://github.com/LicDonaldAguilar/customer-churn-analysis) |
 | Matrícula universitaria | Diseño relacional, consultas y vistas con SQL Server y T-SQL. | [Ver proyecto](https://github.com/LicDonaldAguilar/university-enrollment-sql) |
-| Indicadores de operaciones de exportación | Cumplimiento de entregas, ventas, utilidad neta y medidas DAX. | [Ver proyecto](https://github.com/LicDonaldAguilar/export-operations-kpi)
+| Indicadores de operaciones de exportación | Cumplimiento de entregas, ventas, utilidad neta y medidas DAX. | [Ver proyecto](https://github.com/LicDonaldAguilar/export-operations-kpi) |
+| Cafetería Central | Análisis de ventas de cafetería y aplicación de inteligencia de negocios. | [Ver proyecto] (https://github.com/LicDonaldAguilar/coffee-sales-bi) |
 
 ## Herramientas utilizadas en la formación
 
